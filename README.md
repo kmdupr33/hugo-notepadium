@@ -454,3 +454,4 @@ For Hugo 0.62.0+ users
 `![](01.png " ")` render as block `<img>`, like as `<figure>` tag style.
 
 ![](https://raw.githubusercontent.com/cntrump/hugo-notepadium/master/images/02.png)
+# hugo-notepadium
